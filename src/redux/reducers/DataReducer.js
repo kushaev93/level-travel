@@ -7,7 +7,7 @@ import {
 const initialState = {
     loaded:true,  
     loading: false,
-    cities: []
+    cities: [],
   };
   
 

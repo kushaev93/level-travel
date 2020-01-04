@@ -19,8 +19,13 @@ code {
 
 .wrapp {
   display: flex;
+  justify-content: space-between;
 }
 
 .item-wrap{
   display: flex;
+}
+
+#mes{
+  display: none;
 }
